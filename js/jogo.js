@@ -106,12 +106,12 @@ const q7 = {
 }
 const q8 = {
     numQuestao   : 8,
-    pergunta     : "Qual é a forma correta: pinguins podem voar ou pinguins são capazes de voar?",
-    alternativaA : "Pinguins podem voar",
-    alternativaB : "Pinguins são capazes de voar",
-    alternativaC : "As duas formas são as mesmas!",
-    alternativaD : "Nenhuma das Anteriores, pinguin não voa",
-    correta      : "Nenhuma das Anteriores, pinguin não voa",
+    pergunta     : "O que desaparece simplesmente quando o seu nome é falado?",
+    alternativaA : "O Som",
+    alternativaB : "O Silencio",
+    alternativaC : "A Voz",
+    alternativaD : "O Nome",
+    correta      : "O Silencio",
 }
 const q9 = {
     numQuestao   : 9,
